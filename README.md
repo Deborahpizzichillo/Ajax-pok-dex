@@ -1,1 +1,1 @@
-# Ajax-pok-dex
+# Ajax-pokedex
